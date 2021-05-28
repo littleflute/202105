@@ -17,33 +17,33 @@ var pwaEnabled = false;
 var swCacheDisabled;
 </script>
 <meta charset="utf-8" />
-<title>Best Beaches in the US and the World</title>
-<meta name="title" content="Best Beaches in the US and the World" />
-<meta name="description" content="As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach" />
-<meta name="keywords" content="Read, Listen & Learn, Arts & Culture" />
+<title>US Supreme Court Enters Culture Wars with Abortion, Gun Cases</title>
+<meta name="title" content="US Supreme Court Enters Culture Wars with Abortion, Gun Cases" />
+<meta name="description" content="Now with a super-majority, conservative justices are bringing big issues to the court." />
+<meta name="keywords" content="Read, Listen & Learn, As It Is" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta property="fb:pages" content="103481483020802" />
 <meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
-<link href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" rel="canonical" />
+<link href="https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html" rel="canonical" />
 <meta name="apple-mobile-web-app-title" content="VOA" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//5906793.ltr" />
-<meta content="Best Beaches in the US and the World" property="og:title" />
-<meta content="As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach" property="og:description" />
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//5898308.ltr" />
+<meta content="US Supreme Court Enters Culture Wars with Abortion, Gun Cases" property="og:title" />
+<meta content="Now with a super-majority, conservative justices are bringing big issues to the court." property="og:description" />
 <meta content="article" property="og:type" />
-<meta content="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" property="og:url" />
+<meta content="https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html" property="og:url" />
 <meta content="VOA" property="og:site_name" />
 <meta content="https://www.facebook.com/voalearningenglish" property="article:publisher" />
-<meta content="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1200_r1.jpg" property="og:image" />
+<meta content="https://gdb.voanews.com/BD8D3AE6-4766-4B87-9A05-491E59835D22_w1200_r1.jpg" property="og:image" />
 <meta content="1200" property="og:image:width" />
 <meta content="675" property="og:image:height" />
 <meta content="294526303993468" property="fb:app_id" />
 <meta content="summary_large_image" name="twitter:card" />
 <meta content="@VOALearnEnglish" name="twitter:site" />
-<meta content="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1200_r1.jpg" name="twitter:image" />
-<link rel="amphtml" href="https://learningenglish.voanews.com/amp/best-beaches-in-the-us-and-the-world/5906793.html" />
-<script type="application/ld+json">{"articleSection":"Arts \u0026amp; Culture","headline":"Best Beaches in the US and the World","inLanguage":"en-US-LEARN","keywords":"Read, Listen \u0026 Learn, Arts \u0026 Culture","author":{"@type":"Person","name":"VOA Learning English"},"datePublished":"2021-05-27","dateModified":"2021-05-27 21:58:28Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://learningenglish.voanews.com","sameAs":["https://www.facebook.com/voalearningenglish","https://twitter.com/VOALearnEnglish","https://www.youtube.com/voalearningenglish"],"name":"Best Beaches in the US and the World","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html","url":"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html","description":"As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1080_h608.jpg"},"name":"Best Beaches in the US and the World"}</script>
+<meta content="https://gdb.voanews.com/BD8D3AE6-4766-4B87-9A05-491E59835D22_w1200_r1.jpg" name="twitter:image" />
+<link rel="amphtml" href="https://learningenglish.voanews.com/amp/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html" />
+<script type="application/ld+json">{"articleSection":"As It Is","headline":"US Supreme Court Enters Culture Wars with Abortion, Gun Cases","inLanguage":"en-US-LEARN","keywords":"Read, Listen \u0026 Learn, As It Is","author":{"@type":"Person","name":"VOA Learning English"},"datePublished":"2021-05-27","dateModified":"2021-05-27 21:57:54Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://learningenglish.voanews.com","sameAs":["https://www.facebook.com/voalearningenglish","https://twitter.com/VOALearnEnglish","https://www.youtube.com/voalearningenglish"],"name":"US Supreme Court Enters Culture Wars with Abortion, Gun Cases","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html","url":"https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html","description":"Now with a super-majority, conservative justices are bringing big issues to the court.","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/BD8D3AE6-4766-4B87-9A05-491E59835D22_w1080_h608.jpg"},"name":"US Supreme Court Enters Culture Wars with Abortion, Gun Cases"}</script>
 <script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=154"></script>
 <script src="/Scripts/responsive/loader.b?v=0n9qr4Q--Tl-jeZDMwtgde7i74L-1jyVwcOtkMlCDSw1&amp;av=0.1.0.0&amp;cb=154"></script>
 <link rel="shortcut icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
@@ -70,7 +70,7 @@ if (renderGtm === "true") {
 </script>
 <!--Analytics tag js version start-->
 <script type="text/javascript">
-var utag_data={entity:"VOA",language:"English",language_service:"VOA Learning English",short_language_service:"LEARN",property_id:"473",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Best Beaches in the US and the World",page_type:"article",page_name:"Best Beaches in the US and the World",short_headline:"Best Beaches in the US and the World",long_headline:"Best Beaches in the US and the World",headline:"Best Beaches in the US and the World",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html",domain:"learningenglish.voanews.com",pub_year:"2021",pub_month:"05",pub_day:"27",pub_hour:"21",pub_minute:"58",pub_weekday:"Thursday",dateline:"",byline:"",categories:"read-listen-learn,learningenglish-arts-culture",tags:"",slug:"best-beaches-in-the-us-and-the-world",section:"arts \u0026amp; culture",english_section:"learningenglish-arts-culture",article_uid:"5906793"};
+var utag_data={entity:"VOA",language:"English",language_service:"VOA Learning English",short_language_service:"LEARN",property_id:"473",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"US Supreme Court Enters Culture Wars with Abortion, Gun Cases",page_type:"article",page_name:"US Supreme Court Enters Culture Wars with Abortion, Gun Cases",short_headline:"US Supreme Court Enters Culture Wars with Abortion, Gun Cases",long_headline:"US Supreme Court Enters Culture Wars with Abortion, Gun Cases",headline:"US Supreme Court Enters Culture Wars with Abortion, Gun Cases",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html",domain:"learningenglish.voanews.com",pub_year:"2021",pub_month:"05",pub_day:"27",pub_hour:"21",pub_minute:"57",pub_weekday:"Thursday",dateline:"",byline:"",categories:"read-listen-learn,learningenglish-as-it-is",tags:"",slug:"us-supreme-court-enters-culture-wars-with-abortion-gun-cases",section:"as it is",english_section:"learningenglish-as-it-is",article_uid:"5898308"};
 if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
 var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
 if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
@@ -79,7 +79,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/534782237?pageName=voa%3alearn%3ar%3aarticle%3abest%20beaches%20in%20the%20us%20and%20the%20world&amp;c6=best%20beaches%20in%20the%20us%20and%20the%20world&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=best%20beaches%20in%20the%20us%20and%20the%20world&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-arts-culture&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5906793&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1247364335?pageName=voa%3alearn%3ar%3aarticle%3aus%20supreme%20court%20enters%20culture%20wars%20with%20abortion%2c%20gun%20cases&amp;c6=us%20supreme%20court%20enters%20culture%20wars%20with%20abortion%2c%20gun%20cases&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=us%20supreme%20court%20enters%20culture%20wars%20with%20abortion%2c%20gun%20cases&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5898308&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -458,21 +458,21 @@ Learning English Broadcast
 <div class="container">
 <div class="hdr-container">
 <div class="row">
-<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5906793&amp;SiteId=428&amp;r=1612069527&amp;it=0&amp;pd=20210527215828" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5906793" data-lt-siteId="428" />
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5898308&amp;SiteId=428&amp;r=1202751806&amp;it=0&amp;pd=20210527215754" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5898308" data-lt-siteId="428" />
 <noscript>
-<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5906793&amp;SiteId=428&amp;r=1612069527&amp;it=0&amp;pd=20210527215828" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5906793" data-lt-siteId="428" />
+<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5898308&amp;SiteId=428&amp;r=1202751806&amp;it=0&amp;pd=20210527215754" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5898308" data-lt-siteId="428" />
 </noscript>
 <div class="category">
-<a class="" href="/z/986">Arts &amp; Culture</a> </div>
+<a class="" href="/z/3521">As It Is</a> </div>
 </div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title" >
-Best Beaches in the US and the World
+US Supreme Court Enters Culture Wars with Abortion, Gun Cases
 </h1>
 </div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
 <div class="published">
 <span class="date" >
-<time datetime="2021-05-27T21:58:28+00:00">
+<time datetime="2021-05-27T21:57:54+00:00">
 May 27, 2021
 </time>
 </span>
@@ -485,12 +485,12 @@ May 27, 2021
 <figure class="media-image js-media-expand">
 <div class="img-wrap">
 <div class="thumb thumb16_9">
-<img src="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w250_r1_s.jpg" itemprop="url" alt="Hapuna Beach of Hawaii has been named as the best beach in the United States for 2021. (Photo courtesy of Island of Hawaii Visitors Bureau (IHVB) / Kirk Lee Aeder)" />
+<img src="https://gdb.voanews.com/BD8D3AE6-4766-4B87-9A05-491E59835D22_w250_r1_s.jpg" itemprop="url" alt="FILE - In this June 20, 2019, file photo, the Supreme Court is seen in Washington as a storm rolls in. (AP Photo/J. Scott Applewhite, File)" />
 </div>
 <span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
 </div>
 <figcaption>
-<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">Hapuna Beach of Hawaii has been named as the best beach in the United States for 2021. (Photo courtesy of Island of Hawaii Visitors Bureau (IHVB) / Kirk Lee Aeder)</span>
+<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">FILE - In this June 20, 2019, file photo, the Supreme Court is seen in Washington as a storm rolls in. (AP Photo/J. Scott Applewhite, File)</span>
 </figcaption>
 </figure>
 </div>
@@ -500,7 +500,7 @@ May 27, 2021
 <span class="label label--share">Share</span>
 <ul class="share__list">
 <li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn btn--rounded btn-facebook js-social-btn">
@@ -510,7 +510,7 @@ class="btn btn--rounded btn-facebook js-social-btn">
 <span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html&amp;text=US+Supreme+Court+Enters+Culture+Wars+with+Abortion%2c+Gun+Cases"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn btn--rounded btn-twitter js-social-btn">
@@ -520,7 +520,7 @@ class="btn btn--rounded btn-twitter js-social-btn">
 <span class="share__count shares__twitter share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html"
 data-analytics-text="share_on_vkontakte"
 title="Share on В Контакте" target="_blank"
 class="btn btn--rounded btn-vkontakte js-social-btn">
@@ -532,13 +532,13 @@ class="btn btn--rounded btn-vkontakte js-social-btn">
 <li class="share__item">
 <div class="ctc">
 <input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" title="copy link">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html" title="copy link">
 <span class="ico ico-content-copy ico--rounded ico--l"></span>
 </button>
 </div>
 </li>
 <li class="share__item">
-<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;subject=Best Beaches in the US and the World"
+<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html&amp;subject=US Supreme Court Enters Culture Wars with Abortion, Gun Cases"
 title="Email to a Friend"
 class="btn btn--rounded btn-email ">
 <span class="ico ico--rounded ico-email ico--l">
@@ -557,14 +557,14 @@ class="btn btn--rounded btn-email ">
 <div class="container">
 <a href="https://learningenglish.voanews.com" id="logo-sticky-share">&nbsp;</a>
 <div class="pg-title pg-title--sticky-share">
-Best Beaches in the US and the World
+US Supreme Court Enters Culture Wars with Abortion, Gun Cases
 </div>
 <div class="sticked-nav-actions">
 <aside class="share share--sticky js-share--expandable">
 <span class="label label--share">share</span>
 <ul class="share__list">
 <li class="share__item share__item--horizontal">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn btn--rounded btn-facebook js-social-btn">
@@ -573,7 +573,7 @@ class="btn btn--rounded btn-facebook js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--horizontal">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html&amp;text=US+Supreme+Court+Enters+Culture+Wars+with+Abortion%2c+Gun+Cases"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn btn--rounded btn-twitter js-social-btn">
@@ -582,7 +582,7 @@ class="btn btn--rounded btn-twitter js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--additional share__item--horizontal">
-<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html"
 data-analytics-text="share_on_vkontakte"
 title="Share on В Контакте" target="_blank"
 class="btn btn--rounded btn-vkontakte js-social-btn">
@@ -593,13 +593,13 @@ class="btn btn--rounded btn-vkontakte js-social-btn">
 <li class="share__item share__item--additional share__item--horizontal">
 <div class="ctc">
 <input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" title="copy link">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5898308.html" title="copy link">
 <span class="ico ico-content-copy ico--rounded ico--s"></span>
 </button>
 </div>
 </li>
 <li class="share__item share__item--additional share__item--horizontal">
-<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;subject=Best Beaches in the US and the World"
+<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fus-supreme-court-enters-culture-wars-with-abortion-gun-cases%2f5898308.html&amp;subject=US Supreme Court Enters Culture Wars with Abortion, Gun Cases"
 title="Email to a Friend"
 class="btn btn--rounded btn-email ">
 <span class="ico ico--rounded ico-email ico--s">
@@ -642,16 +642,16 @@ class="btn btn--rounded btn-email ">
 <div class="wsw">
 <div class="wsw__embed">
 <div class="media-pholder media-pholder--audio media-pholder--embed">
-<div class="c-sticky-container" data-poster="https://gdb.voanews.com/05E3880E-D538-4DF1-A825-39817FBBFA2B_w250_r1.jpg">
+<div class="c-sticky-container" data-poster="https://gdb.voanews.com/6AD44B97-4251-4D10-B871-C134BBFB39FA_w250_r1.jpg">
 <div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out >
 <div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--audio c-mmp--embed c-mmp--has-poster c-sticky-element__swipe-el"
-data-player_id="" data-title="Best Beaches in the US and the World" data-hide-title="False"
+data-player_id="" data-title="US Supreme Court Enters Culture Wars with Abortion, Gun Cases" data-hide-title="False"
 data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
 data-hlsjs-src="/Scripts/responsive/hls.b">
 <div class="c-mmp__poster js-poster">
-<img src="https://gdb.voanews.com/05E3880E-D538-4DF1-A825-39817FBBFA2B_w250_r1.jpg" alt="Best Beaches in the US and the World" title="Best Beaches in the US and the World" />
+<img src="https://gdb.voanews.com/6AD44B97-4251-4D10-B871-C134BBFB39FA_w250_r1.jpg" alt="US Supreme Court Enters Culture Wars with Abortion, Gun Cases" title="US Supreme Court Enters Culture Wars with Abortion, Gun Cases" />
 </div>
-<a class="c-mmp__fallback-link" href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3">
+<a class="c-mmp__fallback-link" href="https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866.mp3">
 <span class="c-mmp__fallback-link-icon">
 <span class="ico ico-audio"></span>
 </span>
@@ -660,7 +660,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 <img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
 </div>
 <div class="c-mmp__player">
-<audio src="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5907050&SiteId=428&r=1612069527&it=0&pd=20210527203400" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="Best Beaches in the US and the World">
+<audio src="https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5899830&SiteId=428&r=1554123697&it=0&pd=20210521201200" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="US Supreme Court Enters Culture Wars with Abortion, Gun Cases">
 </audio>
 </div>
 <div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
@@ -679,7 +679,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 </span>
 <div class="c-mmp__overlay-title js-overlay-title">
 <h5 class="c-mmp__overlay-media-title">
-<a class="js-media-title-link" href="/a/best-beaches-in-the-us-and-the-world/5907050.html" target="_blank" title="Best Beaches in the US and the World">Best Beaches in the US and the World</a>
+<a class="js-media-title-link" href="/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5899830.html" target="_blank" title="US Supreme Court Enters Culture Wars with Abortion, Gun Cases">US Supreme Court Enters Culture Wars with Abortion, Gun Cases</a>
 </h5>
 <div class="c-mmp__overlay-site-title">
 <small>by <a href="https://learningenglish.voanews.com" target="_blank" title="VOA">VOA</a></small>
@@ -701,7 +701,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 </span>
 </span>
 <div class="c-mmp__overlay-tabs">
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//learningenglish.voanews.com/embed/player/0/5907050.html?type=audio" role="form">
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//learningenglish.voanews.com/embed/player/0/5899830.html?type=audio" role="form">
 <div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
 <div class="column">
 <div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
@@ -725,7 +725,7 @@ The URL has been copied to your clipboard
 >
 <ul class="share__list">
 <li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5907050.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5899830.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn bg-transparent btn-facebook js-social-btn">
@@ -736,7 +736,7 @@ class="btn bg-transparent btn-facebook js-social-btn">
 <span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5907050.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5899830.html&amp;text=US+Supreme+Court+Enters+Culture+Wars+with+Abortion%2c+Gun+Cases"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn bg-transparent btn-twitter js-social-btn">
@@ -752,7 +752,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--sharing-more">
-<a href="/a/5907050.html" title="Share this media" class="btn bg-transparent" target="_blank" rel="noopener">
+<a href="/a/5899830.html" title="Share this media" class="btn bg-transparent" target="_blank" rel="noopener">
 <span class="ico ico-ellipsis "></span>
 </a>
 </li>
@@ -761,7 +761,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </div>
 <hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
 <div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
-<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5907050.html" dir="ltr" readonly />
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://learningenglish.voanews.com/a/us-supreme-court-enters-culture-wars-with-abortion-gun-cases/5899830.html" dir="ltr" readonly />
 <span class="c-mmp__input-btn js-btn-copy-share-url" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
 </div>
 </div>
@@ -799,7 +799,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="c-mmp__cpanel-progress-controls">
 <span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
 <span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
-0:04:10
+0:07:27
 </span>
 <span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
 <span class="c-mmp__indicator-lines js-progressbar">
@@ -861,14 +861,14 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="inner">
 <ul class="subitems">
 <li class="subitem">
-<a href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3?download=1" title="128 kbps | MP3" class="handler"
-onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches in the US and the World', null, '', '2021', '05', '27')">
+<a href="https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866_hq.mp3?download=1" title="128 kbps | MP3" class="handler"
+onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5899830, 'US Supreme Court Enters Culture Wars with Abortion, Gun Cases', null, '', '2021', '05', '21')">
 128 kbps | MP3
 </a>
 </li>
 <li class="subitem">
-<a href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3?download=1" title="64 kbps | MP3" class="handler"
-onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches in the US and the World', null, '', '2021', '05', '27')">
+<a href="https://av.voanews.com/clips/VLE/2021/05/21/7dd0e442-fb6b-4bc7-b76b-158ad803f866.mp3?download=1" title="64 kbps | MP3" class="handler"
+onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5899830, 'US Supreme Court Enters Culture Wars with Abortion, Gun Cases', null, '', '2021', '05', '21')">
 64 kbps | MP3
 </a>
 </li>
@@ -876,70 +876,103 @@ onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches i
 </div>
 </div>
 </div>
-<button class="btn btn--link btn-popout-player" data-default-display="block" data-popup-url="/pp/5907050/ppt0.html" title="Pop-out player">
+<button class="btn btn--link btn-popout-player" data-default-display="block" data-popup-url="/pp/5899830/ppt0.html" title="Pop-out player">
 <span class="ico ico-arrow-top-right"></span>
 <span class="text">Pop-out player</span>
 </button>
 </div>
 </div>
 <p><br />
-“Dr. Beach,” a self-described coastal expert, has named Hapuna Beach of Hawaii as the best beach in the United States for 2021.</p>
-<p>In his <a class="wsw__a" href="https://www.drbeach.org/" target="_blank">yearly ranking</a> of the best beaches, he said Hapuna Beach, with its white sand and black lava rocks, “is a perfect place to swim, <strong>snorkel</strong> or <strong>scuba</strong> <strong>dive</strong>.” On big wave days, try the boogie boards, he added.</p>
-<p>Visitors to Hawaii and its beaches, however, are <a class="wsw__a" href="https://www.gohawaii.com/travel-requirements">required</a> to get tested for COVID-19 whether they are vaccinated or not. “Hawaii is a really special place, and so I think it’s worth it,” he told the <em>Associated Press</em>.</p>
-<p>Kandi Miranda owns Manuela Malasada Company and runs a food truck near Hapuna Beach State Park. Born and raised on the Big Island of Hawaii, she was able to stay open for locals throughout the pandemic and is hopeful about the return of visitors.</p>
-<p>Miranda described Hapuna Beach as “magical.” She added, “The ocean in general in our culture is a really powerful place.”</p><div class="wsw__embed">
+The U.S. Supreme Court is placing itself in the middle of the culture wars in America.</p>
+<p>Over the next year, the nation’s highest court will hear cases on the divisive issues of <strong>abortion</strong> and gun rights. The decisions will have far-reaching impacts on American life.</p>
+<p>With three justices named by former President Donald Trump on the nine-member court, conservatives now have a five-justice majority without the vote of Chief Justice John Roberts.</p>
+<p>Kent Greenfield is a law professor at Boston College. He said the Trump-appointed justices represent “not only a <strong>shift</strong> of ideology but a shift of power. There are five justices to right of Roberts.” He told <em>The Associated Press</em>, “What that means is that the chief is not in control of the court anymore.”</p>
+<p>Last week, the court agreed to review Mississippi’s law banning abortion after 15 weeks of pregnancy. At least 12 other states have passed similar laws, with the hope it would be legally <strong>challenged</strong> and brought before the Supreme Court. Just on Wednesday, Texas Gov. Greg Abbott signed a law banning abortions once a fetal heartbeat is discovered. Heartbeats in fetuses can be found as early as six weeks before a woman knows she is pregnant.</p>
+<p>If the Mississippi law were <strong>upheld</strong>, it would all but <strong>overturn</strong> the 1973 Roe v. Wade decision that legalized abortions nationwide.</p>
+<p>Carrie Severino is head of the Judicial Crisis Network. The organization spent tens of millions of dollars supporting the confirmation of Trump’s Supreme Court nominees.</p>
+<p>She said, “Having Trump’s nominees on the court has made a real impact. It’s exciting to see a solid majority of the court committed to <strong>interpreting</strong> the Constitution as it’s written.”</p><div class="wsw__embed">
 <figure class="media-image js-media-expand">
 <div class="img-wrap">
 <div class="thumb">
-<img alt="FILE - In this May 19, 2020, file photo, a family sets up at a beach looking out toward the San Diego skyline in Coronado, Calif." src="https://gdb.voanews.com/28E209F4-2776-4619-8DF3-18912A7502AF_w250_r0_s.jpg" />
+<img alt="FILE - In this Oct. 2, 2019. file photo, an abortion opponent sings to herself outside the Jackson Womens Health Organization clinic in Jackson, Miss. (AP Photo/Rogelio V. Solis, File)" src="https://gdb.voanews.com/33C3D476-74A0-41C2-95D7-313BCADAA644_w250_r0_s.jpg" />
 </div>
 <span class="ico ico-fullscreen ico--media-expand ico--rounded" />
 </div>
 <figcaption>
-<span class="caption">FILE - In this May 19, 2020, file photo, a family sets up at a beach looking out toward the San Diego skyline in Coronado, Calif.</span>
+<span class="caption">FILE - In this Oct. 2, 2019. file photo, an abortion opponent sings to herself outside the Jackson Womens Health Organization clinic in Jackson, Miss. (AP Photo/Rogelio V. Solis, File)</span>
 </figcaption>
 </figure>
 </div>
-<p><br />
-“Dr. Beach” is also known as Stephen Leatherman, a professor at Florida International University. Leatherman has <strong>reviewed</strong> and rated beaches around the world for over 30 years.</p>
-<p>Leatherman uses 50 <strong>criteria</strong> to come up with his yearly lists. They include cleanliness, smell, sand quality, water temperature and safety.</p>
-<p>Recently, Leatherman has added a new one on whether smoking is permitted on the beach. “First of all, it’s a health issue,” he said of cigarette smoke. And he worried that people would leave cigarette waste on beaches.</p>
-<p>The other top beaches on this year’s list include Duke Kahanamoku Beach in Hawaii and Coopers Beach in New York. There are two in the state of Florida, St. George Island State Park and Caladesi Island State Park. To the north on the Atlantic coast are Beachwalker Park in South Carolina and Ocracoke Lifeguarded Beach and Lighthouse Beach in North Carolina. Others include Coronado Beach in San Diego, California, and Coast Guard Beach in Cape Cod, Massachusetts.</p>
-<p>None of Leatherman’s choices, however, made it to the list of the top 25 beaches in the world on <a class="wsw__a" href="https://www.tripadvisor.com/TravelersChoice-Beaches-cTop-g1">Tripadvisor</a>. The travel website uses information from its users to rate and <strong>review</strong> its “Travelers’ Choice” top beaches.</p>
-<p>Tripadvisor says the best beach in the world is Whitehaven Beach in Australia. Santa Maria Beach of Mexico, Baia do Sancho of Brazil and Grace Bay Beach of Turks and Caicos Islands are next. St. Pete Beach of Florida, which did not even make “Dr. Beach's” list, is rated as the fifth-best in the world.</p>
-<p>No matter what beach is on your list, Leatherman advises beach-goers to observe social distancing at all times. He also says to bring along sun protection and, yes, cloth, face coverings!</p>
-<p>I’m Jonathan Evans.</p>
-<p><em>Hai Do wrote this story with additional material from the Associated Press. Mario Ritter, Jr. was the editor.</em></p>
-<p>_________________________________________________</p>
+<p> </p>
+<p>On April 26, the court agreed to hear a case that challenges New York’s law that restricts carrying hidden handguns in public. The National Rifle Association, a powerful gun rights organization, is supporting the challenge.</p>
+<p>The two cases will be argued and decided during the court's next term, which goes from October to June 2022. A decision to hear a case takes just four votes and is no guarantee of its decision. But on guns and abortion, the Supreme Court with fewer conservative justices passed up many chances to hear similar cases.</p>
+<p>Other cases in the middle of the U.S. political divide may come before the court over the next year. One is a challenge to <strong>affirmative action</strong> in college admissions, which involves Harvard. Cases may also come before the court that challenge new laws in Republican-led states that make it harder to vote.</p>
+<p><strong>Rulings could affect elections</strong></p>
+<p>The court will likely make its rulings on guns and abortion before next year’s mid-term elections that will decide whether the Democrats remain in control of Congress.</p>
+<p>Some experts say rulings that favor conservatives may help liberal Democrats in the 2022 elections.</p>
+<p>Tom Clark is a political scientist and Supreme Court expert at Emory University. He told the Reuters news agency, &quot;I think the most likely outcome is that the Supreme Court will make conservative decisions in these cases, favored by the political right.”</p>
+<p>A ruling overturning or weakening Roe v. Wade likely would be viewed as a political decision by the court, Clark said. It could help Democratic candidates win votes from political moderates and women.</p>
+<p>He added, &quot;Taking something away from people is more angering than giving them something they've been asking for.”</p>
+<p>A Reuters/Ipsos poll of American voters last year found that 76 percent of Democrats and 61 percent of independents thought, &quot;abortion should be legal in most cases.&quot; That is compared to 40 percent of Republicans.</p>
+<p>John Malcolm is a legal expert at the conservative Heritage Foundation. He said the rulings could bring out more conservative voters as well.</p>
+<p>&quot;Pro-life conservatives - and there are a lot of them out there - are going to be <strong>galvanized</strong> to say… we need to elect pro-life legislators,&quot; Malcolm said.</p>
+<p><strong>Future of the court</strong></p>
+<p>The gun and abortion rulings could also be very important to the future of the court itself.</p>
+<p>On April 9, President Joe Biden formed a committee to make recommendations for possible changes to the court. The committee will research topics like increasing the number of justices beyond nine or ending lifetime terms for justices. Both reforms could help end the conservative majority.</p><div class="wsw__embed">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="President Donald Trump watches as Supreme Court Justice Clarence Thomas administers the Constitutional Oath to Amy Coney Barrett on the South Lawn of the White House in Washington, Oct. 26, 2020, after Barrett was confirmed by the Senate earlier." src="https://gdb.voanews.com/3b56de7c-8e0d-4e12-96a5-3428aa6e301b_w250_r0_s.jpg" />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded" />
+</div>
+<figcaption>
+<span class="caption">President Donald Trump watches as Supreme Court Justice Clarence Thomas administers the Constitutional Oath to Amy Coney Barrett on the South Lawn of the White House in Washington, Oct. 26, 2020, after Barrett was confirmed by the Senate earlier.</span>
+</figcaption>
+</figure>
+</div>
+<p> </p>
+<p>Liberal activists remain very angry that Trump was able to make three appointments to the high court. One came after the Senate under Republican control blocked former Democratic President Barack Obama’s nominee in 2016 from even being considered.</p>
+<p>Another came last September, just before the 2020 presidential election. Trump nominated conservative Amy Coney Barrett to the court after the death of liberal Justice Ruth Bader Ginsburg, creating the super-majority.</p>
+<p>Trump himself said back in 2016 that if he had three appointments to the court, “Roe would be gone.”</p>
+<p>I’m Caty Weaver. </p>
+<p>And I'm John Russell.</p>
+<p> </p>
+<p><em>Lawrence Hurley and Andrew Chung reported this story for Reuters.</em> <em>Mark Sherman reported this story for The Associated Press. Dan Novak adapted it for VOA Learning English. Hai Do was the editor.</em></p>
+<p><em>_______________________________________________________________</em></p>
+<h2 class="wsw__h2"> </h2>
 <h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>snorkel </strong><em>–v. </em>to swim underwater using a tube to breathe</p>
-<p><strong>scuba dive </strong><em>–v. </em>an activity in which you swim underwater using tanks and tubes worn on you back</p>
-<p><strong>criterion (ia) </strong><em>–n.(pl.) </em>something that is used as a reason form making a judgment or decision</p>
-<p><strong>review </strong><em>–n. </em>something that is used for making a judgement or decision</p>
-<p><em>We want to hear from you. Write to us in the Comments section, and </em><a class="wsw__a" href="https://www.facebook.com/pg/voalearningenglish/posts/" target="_blank"><em>visit our Facebook page</em></a><em>.</em></p>
+<p> </p>
+<p><strong>abortion </strong>— <em>n.</em> a medical procedure used to end a pregnancy and cause the death of the fetus</p>
+<p><strong>shift </strong>— <em>v.</em> to change or to cause (something) to change to a different opinion, belief, etc.</p>
+<p><strong>challenge </strong>— <em>v. </em>to say or show that (something) may not be true, correct, or legal </p>
+<p><strong>uphold </strong><em>— v. </em> to judge (a legal decision) to be correct <strong>:</strong> to decide not to change (a verdict)</p>
+<p><strong>overturn </strong>— <em>v.</em> to decide that (a ruling, decision, etc.) is wrong and change it </p>
+<p><strong>interpret </strong>— <em>v.</em> to explain the meaning of (something)</p>
+<p><strong>affirmative action </strong>— <em>n.</em> the practice of improving the educational and job opportunities of members of groups that have not been treated fairly in the past because of their race, sex, etc.</p>
 <p> </p>
 </div>
 <div id="comments" class="comments-parent">
 <div class="comments comments--pangea comments--sorting comments--sorting">
 <div class="dropdown dropdown--sorting" role="combobox" aria-expanded="false" aria-label="sorting options" aria-controls="sortable">
 <div class="dropdown__holder">
-<input type="checkbox" id="toogle-item-5906793" class="dropdown__toggle" aria-controls="sortable" />
-<label class="dropdown__label dropdown__label--light" for="toogle-item-5906793" aria-haspopup="listbox" title="Newest">
+<input type="checkbox" id="toogle-item-5898308" class="dropdown__toggle" aria-controls="sortable" />
+<label class="dropdown__label dropdown__label--light" for="toogle-item-5898308" aria-haspopup="listbox" title="Newest">
 <span class="dropdown__label-text" title="Newest">Newest</span>
 <span class="ico ico-chevron-down"></span>
 <span class="ico ico-chevron-up"></span>
 </label>
 <ul id="sortable" class="dropdown__elem" role="listbox" aria-label="submenu">
 <li class="dropdown__item">
-<input class="dropdown__toggle" type="radio" name="item-n-5906793" id="item-n-5906793" value="item-n-5906793" />
-<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5906793p0s1sa1.html?wjs=1" href="/comments/a5906793p0s1sa1.html">
-<label class="dropdown__item-label" for="item-n-5906793" title="Newest">Newest</label>
+<input class="dropdown__toggle" type="radio" name="item-n-5898308" id="item-n-5898308" value="item-n-5898308" />
+<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5898308p0s1sa1.html?wjs=1" href="/comments/a5898308p0s1sa1.html">
+<label class="dropdown__item-label" for="item-n-5898308" title="Newest">Newest</label>
 </a>
 </li>
 <li class="dropdown__item">
-<input class="dropdown__toggle" type="radio" name="item-o-5906793" id="item-o-5906793" value="item-o-5906793" />
-<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5906793p0s0sa1.html?wjs=1" href="/comments/a5906793p0s0sa1.html">
-<label class="dropdown__item-label" for="item-o-5906793" title="Oldest">Oldest</label>
+<input class="dropdown__toggle" type="radio" name="item-o-5898308" id="item-o-5898308" value="item-o-5898308" />
+<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5898308p0s0sa1.html?wjs=1" href="/comments/a5898308p0s0sa1.html">
+<label class="dropdown__item-label" for="item-o-5898308" title="Oldest">Oldest</label>
 </a>
 </li>
 </ul>
@@ -959,7 +992,7 @@ See comments
 <label class="form__label m-t-md" for="Text">Your comment... <span class="form__required">*</span></label><textarea class="form__textarea m-t-sm" data-val="true" data-val-length="Comment field must not be empty or contain more than 4000" data-val-length-max="4000" data-val-length-min="0" data-val-required="Comment field must not be empty or contain more than 4000" id="Text" name="Text" placeholder="Your comment..."></textarea><div class="form__error" data-valmsg-for="Text" data-valmsg-replace="true"></div>
 </li>
 </ul>
-<input data-val="true" data-val-required="The ArticleId field is required." id="ArticleId" name="ArticleId" type="hidden" value="5906793"></input>
+<input data-val="true" data-val-required="The ArticleId field is required." id="ArticleId" name="ArticleId" type="hidden" value="5898308"></input>
 <input data-val="true" data-val-required="The ParentId field is required." id="ParentId" name="ParentId" type="hidden" value="0"></input>
 <input data-val="true" id="PageIndex" name="PageIndex" type="hidden" value="0"></input>
 <div class="sys-msg-pholder" id="placeholder"></div>
@@ -970,8 +1003,8 @@ See comments
 </div>
 <div class="comments__inner-content">
 <p class="buttons btn--load-more">
-<a class="btn btn--load-more-comments link-ajax" href="/comments/a5906793p0s0sa0.html" data-ajax-update=".comments__inner-content" data-ajax-mode="replace"
-data-ajax-url="/comments/a5906793p0s0sa0.html" title="Load more comments">
+<a class="btn btn--load-more-comments link-ajax" href="/comments/a5898308p0s0sa0.html" data-ajax-update=".comments__inner-content" data-ajax-mode="replace"
+data-ajax-url="/comments/a5898308p0s0sa0.html" title="Load more comments">
 <span class="btn__text ">
 Load more comments
 </span>
@@ -989,15 +1022,15 @@ Load more comments
 <ul>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/how-vaccine-passports-for-international-travel-will-work/5905638.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="How Vaccine Passports for International Travel Will Work">
+<a href="/a/biden-announces-new-gun-control-measures/5846008.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Biden Announces New Gun Control Measures">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/9825e383-a9c6-45da-b0c4-61adf6978139_cx0_cy5_cw0_w33_r1.jpg" src="" alt="How Vaccine Passports for International Travel Will Work" />
+<img data-src="https://gdb.voanews.com/0A5B208C-8851-4374-8F1A-F9261ACC5190_cx16_cy27_cw70_w33_r1.jpg" src="" alt="Biden Announces New Gun Control Measures" />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/how-vaccine-passports-for-international-travel-will-work/5905638.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="How Vaccine Passports for International Travel Will Work">
-How Vaccine Passports for International Travel Will Work
+<a href="/a/biden-announces-new-gun-control-measures/5846008.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="Biden Announces New Gun Control Measures">
+Biden Announces New Gun Control Measures
 </h4>
 </a>
 </div>
@@ -1005,15 +1038,15 @@ How Vaccine Passports for International Travel Will Work
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/one-of-the-world-s-best-restaurants-is-taking-meat-off-the-menu/5889368.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="One of the World’s Best Restaurants Is Taking Meat off the Menu">
+<a href="/a/what-did-democracy-mean-to-the-us-constitution-s-writers-/5760963.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="What Did Democracy Mean to the US Constitution’s Writers? ">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/294416B0-651E-43D7-922D-F4A4EEFC9458_cx0_cy80_cw0_w33_r1.jpg" src="" alt="One of the World’s Best Restaurants Is Taking Meat off the Menu" />
+<img data-src="https://gdb.voanews.com/E27B7B63-FC94-4AC0-8FE0-DBCB9E531754_cx6_cy0_cw83_w33_r1.jpg" src="" alt="What Did Democracy Mean to the US Constitution’s Writers? " />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/one-of-the-world-s-best-restaurants-is-taking-meat-off-the-menu/5889368.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="One of the World’s Best Restaurants Is Taking Meat off the Menu">
-One of the World’s Best Restaurants Is Taking Meat off the Menu
+<a href="/a/what-did-democracy-mean-to-the-us-constitution-s-writers-/5760963.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="What Did Democracy Mean to the US Constitution’s Writers? ">
+What Did Democracy Mean to the US Constitution’s Writers?
 </h4>
 </a>
 </div>
@@ -1021,47 +1054,15 @@ One of the World’s Best Restaurants Is Taking Meat off the Menu
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/in-britain-it-s-ok-to-hug-again/5885418.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="In Britain, It’s OK to Hug Again">
+<a href="/a/us-drops-case-against-yale-for-racial-discrimination/5766874.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="US Drops Case Against Yale for Racial Discrimination">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/19D8C034-83D3-43A3-85E1-FAADB08442EA_cx0_cy8_cw0_w33_r1.jpg" src="" alt="In Britain, It’s OK to Hug Again" />
+<img data-src="https://gdb.voanews.com/ECB48E32-7F17-457D-80D2-A5A1FA81BFBE_cx0_cy10_cw0_w33_r1.jpg" src="" alt="US Drops Case Against Yale for Racial Discrimination" />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/in-britain-it-s-ok-to-hug-again/5885418.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="In Britain, It’s OK to Hug Again">
-In Britain, It’s OK to Hug Again
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/many-americans-dropped-face-coverings-well-before-health-guidance/5870151.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Many Americans Dropped Face Coverings Well before Health Guidance">
-<div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/FF4410A6-B83E-4D64-811D-8C64129B5120_cx2_cy0_cw95_w33_r1.jpg" src="" alt="Many Americans Dropped Face Coverings Well before Health Guidance" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/many-americans-dropped-face-coverings-well-before-health-guidance/5870151.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="Many Americans Dropped Face Coverings Well before Health Guidance">
-Many Americans Dropped Face Coverings Well before Health Guidance
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/rich-latin-americans-travel-to-us-for-vaccine/5863365.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Rich Latin Americans Travel to US for Vaccine">
-<div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/2A7D085F-B734-4AC3-8045-D515B53093B7_cx0_cy5_cw0_w33_r1.jpg" src="" alt="Rich Latin Americans Travel to US for Vaccine" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/rich-latin-americans-travel-to-us-for-vaccine/5863365.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="Rich Latin Americans Travel to US for Vaccine">
-Rich Latin Americans Travel to US for Vaccine
+<a href="/a/us-drops-case-against-yale-for-racial-discrimination/5766874.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="US Drops Case Against Yale for Racial Discrimination">
+US Drops Case Against Yale for Racial Discrimination
 </h4>
 </a>
 </div>
@@ -1335,7 +1336,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 </div>
 <script type="text/javascript">
 var bar_data = {
-"apiId": "5906793",
+"apiId": "5898308",
 "apiType": "1",
 "isEmbedded": "0",
 "culture": "en-US-LEARN",

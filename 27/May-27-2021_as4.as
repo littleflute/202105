@@ -17,33 +17,33 @@ var pwaEnabled = false;
 var swCacheDisabled;
 </script>
 <meta charset="utf-8" />
-<title>Best Beaches in the US and the World</title>
-<meta name="title" content="Best Beaches in the US and the World" />
-<meta name="description" content="As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach" />
-<meta name="keywords" content="Read, Listen & Learn, Arts & Culture" />
+<title>Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt</title>
+<meta name="title" content="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt" />
+<meta name="description" content="Zimbabwe is growing more tobacco. But farmers say they are in debt to businessmen who offer them loans while banks avoid lending to farmers without clear land ownership." />
+<meta name="keywords" content="Read, Listen & Learn, As It Is" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta property="fb:pages" content="103481483020802" />
 <meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
-<link href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" rel="canonical" />
+<link href="https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html" rel="canonical" />
 <meta name="apple-mobile-web-app-title" content="VOA" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//5906793.ltr" />
-<meta content="Best Beaches in the US and the World" property="og:title" />
-<meta content="As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach" property="og:description" />
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//5904062.ltr" />
+<meta content="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt" property="og:title" />
+<meta content="Zimbabwe is growing more tobacco. But farmers say they are in debt to businessmen who offer them loans while banks avoid lending to farmers without clear land ownership." property="og:description" />
 <meta content="article" property="og:type" />
-<meta content="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" property="og:url" />
+<meta content="https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html" property="og:url" />
 <meta content="VOA" property="og:site_name" />
 <meta content="https://www.facebook.com/voalearningenglish" property="article:publisher" />
-<meta content="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1200_r1.jpg" property="og:image" />
+<meta content="https://gdb.voanews.com/10A7F629-61EE-4B79-B42A-6694EF209E58_cx0_cy7_cw0_w1200_r1.jpg" property="og:image" />
 <meta content="1200" property="og:image:width" />
 <meta content="675" property="og:image:height" />
 <meta content="294526303993468" property="fb:app_id" />
 <meta content="summary_large_image" name="twitter:card" />
 <meta content="@VOALearnEnglish" name="twitter:site" />
-<meta content="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1200_r1.jpg" name="twitter:image" />
-<link rel="amphtml" href="https://learningenglish.voanews.com/amp/best-beaches-in-the-us-and-the-world/5906793.html" />
-<script type="application/ld+json">{"articleSection":"Arts \u0026amp; Culture","headline":"Best Beaches in the US and the World","inLanguage":"en-US-LEARN","keywords":"Read, Listen \u0026 Learn, Arts \u0026 Culture","author":{"@type":"Person","name":"VOA Learning English"},"datePublished":"2021-05-27","dateModified":"2021-05-27 21:58:28Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://learningenglish.voanews.com","sameAs":["https://www.facebook.com/voalearningenglish","https://twitter.com/VOALearnEnglish","https://www.youtube.com/voalearningenglish"],"name":"Best Beaches in the US and the World","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html","url":"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html","description":"As travel restrictions ease, people in many places may be thinking about a trip to the ocean and a sandy beach","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w1080_h608.jpg"},"name":"Best Beaches in the US and the World"}</script>
+<meta content="https://gdb.voanews.com/10A7F629-61EE-4B79-B42A-6694EF209E58_cx0_cy7_cw0_w1200_r1.jpg" name="twitter:image" />
+<link rel="amphtml" href="https://learningenglish.voanews.com/amp/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html" />
+<script type="application/ld+json">{"articleSection":"As It Is","headline":"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt","inLanguage":"en-US-LEARN","keywords":"Read, Listen \u0026 Learn, As It Is","author":{"@type":"Person","name":"VOA Learning English"},"datePublished":"2021-05-27","dateModified":"2021-05-27 21:55:20Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://learningenglish.voanews.com/Content/responsive/VOA/en-US-LEARN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://learningenglish.voanews.com","sameAs":["https://www.facebook.com/voalearningenglish","https://twitter.com/VOALearnEnglish","https://www.youtube.com/voalearningenglish"],"name":"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html","url":"https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html","description":"Zimbabwe is growing more tobacco. But farmers say they are in debt to businessmen who offer them loans while banks avoid lending to farmers without clear land ownership.","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/10A7F629-61EE-4B79-B42A-6694EF209E58_cx0_cy7_cw0_w1080_h608.jpg"},"name":"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt"}</script>
 <script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=154"></script>
 <script src="/Scripts/responsive/loader.b?v=0n9qr4Q--Tl-jeZDMwtgde7i74L-1jyVwcOtkMlCDSw1&amp;av=0.1.0.0&amp;cb=154"></script>
 <link rel="shortcut icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
@@ -70,7 +70,7 @@ if (renderGtm === "true") {
 </script>
 <!--Analytics tag js version start-->
 <script type="text/javascript">
-var utag_data={entity:"VOA",language:"English",language_service:"VOA Learning English",short_language_service:"LEARN",property_id:"473",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Best Beaches in the US and the World",page_type:"article",page_name:"Best Beaches in the US and the World",short_headline:"Best Beaches in the US and the World",long_headline:"Best Beaches in the US and the World",headline:"Best Beaches in the US and the World",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html",domain:"learningenglish.voanews.com",pub_year:"2021",pub_month:"05",pub_day:"27",pub_hour:"21",pub_minute:"58",pub_weekday:"Thursday",dateline:"",byline:"",categories:"read-listen-learn,learningenglish-arts-culture",tags:"",slug:"best-beaches-in-the-us-and-the-world",section:"arts \u0026amp; culture",english_section:"learningenglish-arts-culture",article_uid:"5906793"};
+var utag_data={entity:"VOA",language:"English",language_service:"VOA Learning English",short_language_service:"LEARN",property_id:"473",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt",page_type:"article",page_name:"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt",short_headline:"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt",long_headline:"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt",headline:"Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html",domain:"learningenglish.voanews.com",pub_year:"2021",pub_month:"05",pub_day:"27",pub_hour:"21",pub_minute:"55",pub_weekday:"Thursday",dateline:"",byline:"",categories:"read-listen-learn,learningenglish-as-it-is",tags:"",slug:"tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt",section:"as it is",english_section:"learningenglish-as-it-is",article_uid:"5904062"};
 if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
 var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
 if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
@@ -79,7 +79,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/534782237?pageName=voa%3alearn%3ar%3aarticle%3abest%20beaches%20in%20the%20us%20and%20the%20world&amp;c6=best%20beaches%20in%20the%20us%20and%20the%20world&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=best%20beaches%20in%20the%20us%20and%20the%20world&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-arts-culture&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5906793&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/241423716?pageName=voa%3alearn%3ar%3aarticle%3atobacco%20is%20profitable%20in%20zimbabwe%2c%20but%20growers%20speak%20of%20debt&amp;c6=tobacco%20is%20profitable%20in%20zimbabwe%2c%20but%20growers%20speak%20of%20debt&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=tobacco%20is%20profitable%20in%20zimbabwe%2c%20but%20growers%20speak%20of%20debt&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5904062&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -458,21 +458,21 @@ Learning English Broadcast
 <div class="container">
 <div class="hdr-container">
 <div class="row">
-<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5906793&amp;SiteId=428&amp;r=1612069527&amp;it=0&amp;pd=20210527215828" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5906793" data-lt-siteId="428" />
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5904062&amp;SiteId=428&amp;r=1737867043&amp;it=0&amp;pd=20210527215520" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5904062" data-lt-siteId="428" />
 <noscript>
-<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5906793&amp;SiteId=428&amp;r=1612069527&amp;it=0&amp;pd=20210527215828" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5906793" data-lt-siteId="428" />
+<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5904062&amp;SiteId=428&amp;r=1737867043&amp;it=0&amp;pd=20210527215520" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5904062" data-lt-siteId="428" />
 </noscript>
 <div class="category">
-<a class="" href="/z/986">Arts &amp; Culture</a> </div>
+<a class="" href="/z/3521">As It Is</a> </div>
 </div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title" >
-Best Beaches in the US and the World
+Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt
 </h1>
 </div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
 <div class="published">
 <span class="date" >
-<time datetime="2021-05-27T21:58:28+00:00">
+<time datetime="2021-05-27T21:55:20+00:00">
 May 27, 2021
 </time>
 </span>
@@ -485,12 +485,12 @@ May 27, 2021
 <figure class="media-image js-media-expand">
 <div class="img-wrap">
 <div class="thumb thumb16_9">
-<img src="https://gdb.voanews.com/6917FF54-38A8-420C-BE5A-2ABFA71136A2_cx0_cy10_cw0_w250_r1_s.jpg" itemprop="url" alt="Hapuna Beach of Hawaii has been named as the best beach in the United States for 2021. (Photo courtesy of Island of Hawaii Visitors Bureau (IHVB) / Kirk Lee Aeder)" />
+<img src="https://gdb.voanews.com/10A7F629-61EE-4B79-B42A-6694EF209E58_cx0_cy7_cw0_w250_r1_s.jpg" itemprop="url" alt="Tobacco farmers and sellers inspect the crop before the market sells the tobacco at a Tobacco auction floor in Harare, Zimbabwe, on April 8, 2021. (AP Photo/Tsvangirayi Mukwazhi)" />
 </div>
 <span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
 </div>
 <figcaption>
-<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">Hapuna Beach of Hawaii has been named as the best beach in the United States for 2021. (Photo courtesy of Island of Hawaii Visitors Bureau (IHVB) / Kirk Lee Aeder)</span>
+<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">Tobacco farmers and sellers inspect the crop before the market sells the tobacco at a Tobacco auction floor in Harare, Zimbabwe, on April 8, 2021. (AP Photo/Tsvangirayi Mukwazhi)</span>
 </figcaption>
 </figure>
 </div>
@@ -500,7 +500,7 @@ May 27, 2021
 <span class="label label--share">Share</span>
 <ul class="share__list">
 <li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn btn--rounded btn-facebook js-social-btn">
@@ -510,7 +510,7 @@ class="btn btn--rounded btn-facebook js-social-btn">
 <span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html&amp;text=Tobacco+Is+Profitable+in+Zimbabwe%2c+But+Growers+Speak+of+Debt"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn btn--rounded btn-twitter js-social-btn">
@@ -520,7 +520,7 @@ class="btn btn--rounded btn-twitter js-social-btn">
 <span class="share__count shares__twitter share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html"
 data-analytics-text="share_on_vkontakte"
 title="Share on В Контакте" target="_blank"
 class="btn btn--rounded btn-vkontakte js-social-btn">
@@ -532,13 +532,13 @@ class="btn btn--rounded btn-vkontakte js-social-btn">
 <li class="share__item">
 <div class="ctc">
 <input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" title="copy link">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html" title="copy link">
 <span class="ico ico-content-copy ico--rounded ico--l"></span>
 </button>
 </div>
 </li>
 <li class="share__item">
-<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;subject=Best Beaches in the US and the World"
+<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html&amp;subject=Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt"
 title="Email to a Friend"
 class="btn btn--rounded btn-email ">
 <span class="ico ico--rounded ico-email ico--l">
@@ -557,14 +557,14 @@ class="btn btn--rounded btn-email ">
 <div class="container">
 <a href="https://learningenglish.voanews.com" id="logo-sticky-share">&nbsp;</a>
 <div class="pg-title pg-title--sticky-share">
-Best Beaches in the US and the World
+Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt
 </div>
 <div class="sticked-nav-actions">
 <aside class="share share--sticky js-share--expandable">
 <span class="label label--share">share</span>
 <ul class="share__list">
 <li class="share__item share__item--horizontal">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn btn--rounded btn-facebook js-social-btn">
@@ -573,7 +573,7 @@ class="btn btn--rounded btn-facebook js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--horizontal">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html&amp;text=Tobacco+Is+Profitable+in+Zimbabwe%2c+But+Growers+Speak+of+Debt"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn btn--rounded btn-twitter js-social-btn">
@@ -582,7 +582,7 @@ class="btn btn--rounded btn-twitter js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--additional share__item--horizontal">
-<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html"
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html"
 data-analytics-text="share_on_vkontakte"
 title="Share on В Контакте" target="_blank"
 class="btn btn--rounded btn-vkontakte js-social-btn">
@@ -593,13 +593,13 @@ class="btn btn--rounded btn-vkontakte js-social-btn">
 <li class="share__item share__item--additional share__item--horizontal">
 <div class="ctc">
 <input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5906793.html" title="copy link">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904062.html" title="copy link">
 <span class="ico ico-content-copy ico--rounded ico--s"></span>
 </button>
 </div>
 </li>
 <li class="share__item share__item--additional share__item--horizontal">
-<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2fbest-beaches-in-the-us-and-the-world%2f5906793.html&amp;subject=Best Beaches in the US and the World"
+<a href="mailto:?body=https%3a%2f%2flearningenglish.voanews.com%2fa%2ftobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt%2f5904062.html&amp;subject=Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt"
 title="Email to a Friend"
 class="btn btn--rounded btn-email ">
 <span class="ico ico--rounded ico-email ico--s">
@@ -642,16 +642,16 @@ class="btn btn--rounded btn-email ">
 <div class="wsw">
 <div class="wsw__embed">
 <div class="media-pholder media-pholder--audio media-pholder--embed">
-<div class="c-sticky-container" data-poster="https://gdb.voanews.com/05E3880E-D538-4DF1-A825-39817FBBFA2B_w250_r1.jpg">
+<div class="c-sticky-container" data-poster="https://gdb.voanews.com/6AD44B97-4251-4D10-B871-C134BBFB39FA_w250_r1.jpg">
 <div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out >
 <div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--audio c-mmp--embed c-mmp--has-poster c-sticky-element__swipe-el"
-data-player_id="" data-title="Best Beaches in the US and the World" data-hide-title="False"
+data-player_id="" data-title="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt" data-hide-title="False"
 data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
 data-hlsjs-src="/Scripts/responsive/hls.b">
 <div class="c-mmp__poster js-poster">
-<img src="https://gdb.voanews.com/05E3880E-D538-4DF1-A825-39817FBBFA2B_w250_r1.jpg" alt="Best Beaches in the US and the World" title="Best Beaches in the US and the World" />
+<img src="https://gdb.voanews.com/6AD44B97-4251-4D10-B871-C134BBFB39FA_w250_r1.jpg" alt="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt" title="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt" />
 </div>
-<a class="c-mmp__fallback-link" href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3">
+<a class="c-mmp__fallback-link" href="https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be.mp3">
 <span class="c-mmp__fallback-link-icon">
 <span class="ico ico-audio"></span>
 </span>
@@ -660,7 +660,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 <img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
 </div>
 <div class="c-mmp__player">
-<audio src="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5907050&SiteId=428&r=1612069527&it=0&pd=20210527203400" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="Best Beaches in the US and the World">
+<audio src="https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5904167&SiteId=428&r=1737867043&it=0&pd=20210526104600" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt">
 </audio>
 </div>
 <div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
@@ -679,7 +679,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 </span>
 <div class="c-mmp__overlay-title js-overlay-title">
 <h5 class="c-mmp__overlay-media-title">
-<a class="js-media-title-link" href="/a/best-beaches-in-the-us-and-the-world/5907050.html" target="_blank" title="Best Beaches in the US and the World">Best Beaches in the US and the World</a>
+<a class="js-media-title-link" href="/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904167.html" target="_blank" title="Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt">Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt</a>
 </h5>
 <div class="c-mmp__overlay-site-title">
 <small>by <a href="https://learningenglish.voanews.com" target="_blank" title="VOA">VOA</a></small>
@@ -701,7 +701,7 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 </span>
 </span>
 <div class="c-mmp__overlay-tabs">
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//learningenglish.voanews.com/embed/player/0/5907050.html?type=audio" role="form">
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//learningenglish.voanews.com/embed/player/0/5904167.html?type=audio" role="form">
 <div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
 <div class="column">
 <div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
@@ -725,7 +725,7 @@ The URL has been copied to your clipboard
 >
 <ul class="share__list">
 <li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5907050.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5904167.html"
 data-analytics-text="share_on_facebook"
 title="Share on Facebook" target="_blank"
 class="btn bg-transparent btn-facebook js-social-btn">
@@ -736,7 +736,7 @@ class="btn bg-transparent btn-facebook js-social-btn">
 <span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5907050.html&amp;text=Best+Beaches+in+the+US+and+the+World"
+<a href="https://twitter.com/share?url=https%3a%2f%2flearningenglish.voanews.com%2fa%2f5904167.html&amp;text=Tobacco+Is+Profitable+in+Zimbabwe%2c+But+Growers+Speak+of+Debt"
 data-analytics-text="share_on_twitter"
 title="Share on Twitter" target="_blank"
 class="btn bg-transparent btn-twitter js-social-btn">
@@ -752,7 +752,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </a>
 </li>
 <li class="share__item share__item--sharing-more">
-<a href="/a/5907050.html" title="Share this media" class="btn bg-transparent" target="_blank" rel="noopener">
+<a href="/a/5904167.html" title="Share this media" class="btn bg-transparent" target="_blank" rel="noopener">
 <span class="ico ico-ellipsis "></span>
 </a>
 </li>
@@ -761,7 +761,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </div>
 <hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
 <div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
-<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://learningenglish.voanews.com/a/best-beaches-in-the-us-and-the-world/5907050.html" dir="ltr" readonly />
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://learningenglish.voanews.com/a/tobacco-is-profitable-in-zimbabwe-but-growers-speak-of-debt/5904167.html" dir="ltr" readonly />
 <span class="c-mmp__input-btn js-btn-copy-share-url" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
 </div>
 </div>
@@ -799,7 +799,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="c-mmp__cpanel-progress-controls">
 <span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
 <span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
-0:04:10
+0:05:00
 </span>
 <span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
 <span class="c-mmp__indicator-lines js-progressbar">
@@ -861,14 +861,14 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="inner">
 <ul class="subitems">
 <li class="subitem">
-<a href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9_hq.mp3?download=1" title="128 kbps | MP3" class="handler"
-onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches in the US and the World', null, '', '2021', '05', '27')">
+<a href="https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be_hq.mp3?download=1" title="128 kbps | MP3" class="handler"
+onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5904167, 'Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt', null, '', '2021', '05', '26')">
 128 kbps | MP3
 </a>
 </li>
 <li class="subitem">
-<a href="https://av.voanews.com/clips/VLE/2021/05/27/1294cb48-162f-4ba1-bf8b-c15e59d216d9.mp3?download=1" title="64 kbps | MP3" class="handler"
-onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches in the US and the World', null, '', '2021', '05', '27')">
+<a href="https://av.voanews.com/clips/VLE/2021/05/25/a9b814ee-7017-49d2-9161-2ce2c859a7be.mp3?download=1" title="64 kbps | MP3" class="handler"
+onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5904167, 'Tobacco Is Profitable in Zimbabwe, But Growers Speak of Debt', null, '', '2021', '05', '26')">
 64 kbps | MP3
 </a>
 </li>
@@ -876,70 +876,102 @@ onclick="FireAnalyticsTagEventOnDownload(this, 'audio', 5907050, 'Best Beaches i
 </div>
 </div>
 </div>
-<button class="btn btn--link btn-popout-player" data-default-display="block" data-popup-url="/pp/5907050/ppt0.html" title="Pop-out player">
+<button class="btn btn--link btn-popout-player" data-default-display="block" data-popup-url="/pp/5904167/ppt0.html" title="Pop-out player">
 <span class="ico ico-arrow-top-right"></span>
 <span class="text">Pop-out player</span>
 </button>
 </div>
 </div>
 <p><br />
-“Dr. Beach,” a self-described coastal expert, has named Hapuna Beach of Hawaii as the best beach in the United States for 2021.</p>
-<p>In his <a class="wsw__a" href="https://www.drbeach.org/" target="_blank">yearly ranking</a> of the best beaches, he said Hapuna Beach, with its white sand and black lava rocks, “is a perfect place to swim, <strong>snorkel</strong> or <strong>scuba</strong> <strong>dive</strong>.” On big wave days, try the boogie boards, he added.</p>
-<p>Visitors to Hawaii and its beaches, however, are <a class="wsw__a" href="https://www.gohawaii.com/travel-requirements">required</a> to get tested for COVID-19 whether they are vaccinated or not. “Hawaii is a really special place, and so I think it’s worth it,” he told the <em>Associated Press</em>.</p>
-<p>Kandi Miranda owns Manuela Malasada Company and runs a food truck near Hapuna Beach State Park. Born and raised on the Big Island of Hawaii, she was able to stay open for locals throughout the pandemic and is hopeful about the return of visitors.</p>
-<p>Miranda described Hapuna Beach as “magical.” She added, “The ocean in general in our culture is a really powerful place.”</p><div class="wsw__embed">
+Zimbabwean farmers are again growing tobacco. But some say it is lenders who are profiting by placing farmers in debt.</p>
+<p>Rosemary Dzodza is a small farmer who recently traveled 200 kilometers to the capital, Harare. She brought her tobacco crop for what she hoped would be a profitable day.</p>
+<p>But the 60-year-old farmer ended up sleeping out in the open for two weeks waiting for her payment. When the money arrived, it was just a small part of what her tobacco sold for later.</p>
+<p>She was angry. “My tobacco sold for $7,000, but I am only going home with less than $400,” she said. The rest of the money went to the <strong>merchant</strong> who had given her a loan to pay for fertilizer, seed, labor, firewood and goods for her home.</p><div class="wsw__embed">
 <figure class="media-image js-media-expand">
 <div class="img-wrap">
 <div class="thumb">
-<img alt="FILE - In this May 19, 2020, file photo, a family sets up at a beach looking out toward the San Diego skyline in Coronado, Calif." src="https://gdb.voanews.com/28E209F4-2776-4619-8DF3-18912A7502AF_w250_r0_s.jpg" />
+<img alt="A tobacco grower waits patiently for her tobacco crop to be sold at the auction floor in Harare, Thursday, April 8, 2021." src="https://gdb.voanews.com/0116340C-76FC-478E-98DB-AD50E83CD8FD_w250_r0_s.jpg" />
 </div>
 <span class="ico ico-fullscreen ico--media-expand ico--rounded" />
 </div>
 <figcaption>
-<span class="caption">FILE - In this May 19, 2020, file photo, a family sets up at a beach looking out toward the San Diego skyline in Coronado, Calif.</span>
+<span class="caption">A tobacco grower waits patiently for her tobacco crop to be sold at the auction floor in Harare, Thursday, April 8, 2021.</span>
 </figcaption>
 </figure>
 </div>
 <p><br />
-“Dr. Beach” is also known as Stephen Leatherman, a professor at Florida International University. Leatherman has <strong>reviewed</strong> and rated beaches around the world for over 30 years.</p>
-<p>Leatherman uses 50 <strong>criteria</strong> to come up with his yearly lists. They include cleanliness, smell, sand quality, water temperature and safety.</p>
-<p>Recently, Leatherman has added a new one on whether smoking is permitted on the beach. “First of all, it’s a health issue,” he said of cigarette smoke. And he worried that people would leave cigarette waste on beaches.</p>
-<p>The other top beaches on this year’s list include Duke Kahanamoku Beach in Hawaii and Coopers Beach in New York. There are two in the state of Florida, St. George Island State Park and Caladesi Island State Park. To the north on the Atlantic coast are Beachwalker Park in South Carolina and Ocracoke Lifeguarded Beach and Lighthouse Beach in North Carolina. Others include Coronado Beach in San Diego, California, and Coast Guard Beach in Cape Cod, Massachusetts.</p>
-<p>None of Leatherman’s choices, however, made it to the list of the top 25 beaches in the world on <a class="wsw__a" href="https://www.tripadvisor.com/TravelersChoice-Beaches-cTop-g1">Tripadvisor</a>. The travel website uses information from its users to rate and <strong>review</strong> its “Travelers’ Choice” top beaches.</p>
-<p>Tripadvisor says the best beach in the world is Whitehaven Beach in Australia. Santa Maria Beach of Mexico, Baia do Sancho of Brazil and Grace Bay Beach of Turks and Caicos Islands are next. St. Pete Beach of Florida, which did not even make “Dr. Beach's” list, is rated as the fifth-best in the world.</p>
-<p>No matter what beach is on your list, Leatherman advises beach-goers to observe social distancing at all times. He also says to bring along sun protection and, yes, cloth, face coverings!</p>
-<p>I’m Jonathan Evans.</p>
-<p><em>Hai Do wrote this story with additional material from the Associated Press. Mario Ritter, Jr. was the editor.</em></p>
-<p>_________________________________________________</p>
+Dzodza had to repay the loan with interest and sell her crop to the merchant at a set price. The merchant then sold the tobacco to the highest <strong>bidder </strong>in a public sale. Often, the highest price is paid by buyers who will export the crop to China.</p>
+<p>Tobacco was a profitable crop in Zimbabwe for more than 60 years. White farmers profited during this time. When former President Robert Mugabe’s supporters began violently taking over white-owned farms, tobacco production fell. The tobacco crop dropped from 260 million kilograms in 1998 to 50 million kilograms in 2008.</p>
+<p>Since then, tobacco production by Black farmers has grown. The number of Black growers, mainly on small farms, has risen to more than 145,000. Experts estimate that this year’s tobacco crop will be 200 million kilograms. That is up from 180 million kilograms last year.</p>
+<p>Zimbabwe’s banks used to give loans to white farmers for tobacco growing. But the banks pulled out years ago because the government has not provided <strong>deeds</strong> to the Black farmers on formerly white-owned land. Deeds are documents that show ownership of land or property.</p>
+<p>The merchant loans helped Black farmers get involved in the tobacco industry. The demand started with Chinese buyers. But now many Zimbabwean merchants want to profit from it. </p><div class="wsw__embed">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="Tobacco auctioneers inspect the tobacco crop before an auction in Harare, Thursday, April 8, 2021." src="https://gdb.voanews.com/AB83D83B-0356-4DB8-A61F-3A341BD8A8B9_w250_r0_s.jpg" />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded" />
+</div>
+<figcaption>
+<span class="caption">Tobacco auctioneers inspect the tobacco crop before an auction in Harare, Thursday, April 8, 2021.</span>
+</figcaption>
+</figure>
+</div>
+<p><br />
+The Tobacco Market Industry Board supervises the tobacco industry in Zimbabwe. It says 96 percent of tobacco farmers have been financed by the loan contracts. This year, the Tobacco Industry Marketing Board released 20,000 farmers from contracts with merchants.</p>
+<p>Many say this system has helped Zimbabwe bring the tobacco industry back to life and become Africa’s biggest grower of the crop. But many Black farmers say the merchants are making them poor.</p>
+<p>George Seremwe is the president of the Tobacco Association of Zimbabwe. He said that farmers are always in debt because as soon as they repay a loan, they have to take out another one. “Year in and year out they are in debt,” he said.</p>
+<p>He said that some farmers lose animals, their only wealth, to merchants after failing to repay loans because of poor harvests.</p>
+<p>A study in the publication Tobacco Control found that more than 90 percent of tobacco farmers want to end their contracts but cannot find other ways to raise money. The study found that close to 60 percent of farmers said they were in debt.</p><div class="wsw__embed">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="Tobacco farmers prepare to sleep at the auction floors in Harare, Wednesday, April 14, 2021." src="https://gdb.voanews.com/FA321911-4761-4F8C-8061-08B6854F31C7_w250_r0_s.jpg" />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded" />
+</div>
+<figcaption>
+<span class="caption">Tobacco farmers prepare to sleep at the auction floors in Harare, Wednesday, April 14, 2021.</span>
+</figcaption>
+</figure>
+</div>
+<p><br />
+Economist John Robertson said the problem is that farmers who took over white-owned land are not able to borrow from banks. He said banks fear that, if a farmer fails to repay a loan, they cannot sell the farmer’s land to cover the cost because ownership of the land is unclear.</p>
+<p>The government says the answer lies with the state-owned Land Bank started in April. It says the bank would loan farmers money for their tobacco crops at lower interest rates.</p>
+<p>Not everyone is sure it will work. Farmers such as Dzodza say they may have to continue with contract farming. </p>
+<p>I’m Jill Robbins.</p>
+<p> </p>
+<p><em>Farai Mutsaka reported this story for the Associated Press. Gregory Stachel adapted it for VOA Learning English. Mario Ritter, Jr. was the editor.</em></p>
+<p><em>______________________________________________________________</em></p>
+<p> </p>
 <h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>snorkel </strong><em>–v. </em>to swim underwater using a tube to breathe</p>
-<p><strong>scuba dive </strong><em>–v. </em>an activity in which you swim underwater using tanks and tubes worn on you back</p>
-<p><strong>criterion (ia) </strong><em>–n.(pl.) </em>something that is used as a reason form making a judgment or decision</p>
-<p><strong>review </strong><em>–n. </em>something that is used for making a judgement or decision</p>
-<p><em>We want to hear from you. Write to us in the Comments section, and </em><a class="wsw__a" href="https://www.facebook.com/pg/voalearningenglish/posts/" target="_blank"><em>visit our Facebook page</em></a><em>.</em></p>
+<p> </p>
+<p><strong>merchant </strong>–<em> n. </em>someone who buys and sells goods especially in large amounts</p>
+<p><strong>bidder </strong><em>–n. </em>a person who offers to pay a set price for something being sold in a public sale (usually the object is sold to the bidder offering the highest price)</p>
+<p><strong>deed </strong>–<em> n. </em>a legal document that shows who owns a building or piece of land</p>
 <p> </p>
 </div>
 <div id="comments" class="comments-parent">
 <div class="comments comments--pangea comments--sorting comments--sorting">
 <div class="dropdown dropdown--sorting" role="combobox" aria-expanded="false" aria-label="sorting options" aria-controls="sortable">
 <div class="dropdown__holder">
-<input type="checkbox" id="toogle-item-5906793" class="dropdown__toggle" aria-controls="sortable" />
-<label class="dropdown__label dropdown__label--light" for="toogle-item-5906793" aria-haspopup="listbox" title="Newest">
+<input type="checkbox" id="toogle-item-5904062" class="dropdown__toggle" aria-controls="sortable" />
+<label class="dropdown__label dropdown__label--light" for="toogle-item-5904062" aria-haspopup="listbox" title="Newest">
 <span class="dropdown__label-text" title="Newest">Newest</span>
 <span class="ico ico-chevron-down"></span>
 <span class="ico ico-chevron-up"></span>
 </label>
 <ul id="sortable" class="dropdown__elem" role="listbox" aria-label="submenu">
 <li class="dropdown__item">
-<input class="dropdown__toggle" type="radio" name="item-n-5906793" id="item-n-5906793" value="item-n-5906793" />
-<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5906793p0s1sa1.html?wjs=1" href="/comments/a5906793p0s1sa1.html">
-<label class="dropdown__item-label" for="item-n-5906793" title="Newest">Newest</label>
+<input class="dropdown__toggle" type="radio" name="item-n-5904062" id="item-n-5904062" value="item-n-5904062" />
+<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5904062p0s1sa1.html?wjs=1" href="/comments/a5904062p0s1sa1.html">
+<label class="dropdown__item-label" for="item-n-5904062" title="Newest">Newest</label>
 </a>
 </li>
 <li class="dropdown__item">
-<input class="dropdown__toggle" type="radio" name="item-o-5906793" id="item-o-5906793" value="item-o-5906793" />
-<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5906793p0s0sa1.html?wjs=1" href="/comments/a5906793p0s0sa1.html">
-<label class="dropdown__item-label" for="item-o-5906793" title="Oldest">Oldest</label>
+<input class="dropdown__toggle" type="radio" name="item-o-5904062" id="item-o-5904062" value="item-o-5904062" />
+<a class="dropdown__item-link link-ajax" data-ajax="true" data-ajax-mode="replace" data-ajax-update=".comments__inner-content" data-ajax-url="/comments/a5904062p0s0sa1.html?wjs=1" href="/comments/a5904062p0s0sa1.html">
+<label class="dropdown__item-label" for="item-o-5904062" title="Oldest">Oldest</label>
 </a>
 </li>
 </ul>
@@ -959,7 +991,7 @@ See comments
 <label class="form__label m-t-md" for="Text">Your comment... <span class="form__required">*</span></label><textarea class="form__textarea m-t-sm" data-val="true" data-val-length="Comment field must not be empty or contain more than 4000" data-val-length-max="4000" data-val-length-min="0" data-val-required="Comment field must not be empty or contain more than 4000" id="Text" name="Text" placeholder="Your comment..."></textarea><div class="form__error" data-valmsg-for="Text" data-valmsg-replace="true"></div>
 </li>
 </ul>
-<input data-val="true" data-val-required="The ArticleId field is required." id="ArticleId" name="ArticleId" type="hidden" value="5906793"></input>
+<input data-val="true" data-val-required="The ArticleId field is required." id="ArticleId" name="ArticleId" type="hidden" value="5904062"></input>
 <input data-val="true" data-val-required="The ParentId field is required." id="ParentId" name="ParentId" type="hidden" value="0"></input>
 <input data-val="true" id="PageIndex" name="PageIndex" type="hidden" value="0"></input>
 <div class="sys-msg-pholder" id="placeholder"></div>
@@ -970,8 +1002,8 @@ See comments
 </div>
 <div class="comments__inner-content">
 <p class="buttons btn--load-more">
-<a class="btn btn--load-more-comments link-ajax" href="/comments/a5906793p0s0sa0.html" data-ajax-update=".comments__inner-content" data-ajax-mode="replace"
-data-ajax-url="/comments/a5906793p0s0sa0.html" title="Load more comments">
+<a class="btn btn--load-more-comments link-ajax" href="/comments/a5904062p0s0sa0.html" data-ajax-update=".comments__inner-content" data-ajax-mode="replace"
+data-ajax-url="/comments/a5904062p0s0sa0.html" title="Load more comments">
 <span class="btn__text ">
 Load more comments
 </span>
@@ -989,15 +1021,15 @@ Load more comments
 <ul>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/how-vaccine-passports-for-international-travel-will-work/5905638.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="How Vaccine Passports for International Travel Will Work">
+<a href="/a/fda-restarts-us-effort-to-ban-menthol-cigarettes/5873399.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="FDA Restarts US Effort to Ban Menthol Cigarettes">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/9825e383-a9c6-45da-b0c4-61adf6978139_cx0_cy5_cw0_w33_r1.jpg" src="" alt="How Vaccine Passports for International Travel Will Work" />
+<img data-src="https://gdb.voanews.com/C325451C-824C-4DC0-AA1D-19DEEBEAE025_cx0_cy2_cw0_w33_r1.jpg" src="" alt="FDA Restarts US Effort to Ban Menthol Cigarettes" />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/how-vaccine-passports-for-international-travel-will-work/5905638.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="How Vaccine Passports for International Travel Will Work">
-How Vaccine Passports for International Travel Will Work
+<a href="/a/fda-restarts-us-effort-to-ban-menthol-cigarettes/5873399.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="FDA Restarts US Effort to Ban Menthol Cigarettes">
+FDA Restarts US Effort to Ban Menthol Cigarettes
 </h4>
 </a>
 </div>
@@ -1005,15 +1037,15 @@ How Vaccine Passports for International Travel Will Work
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/one-of-the-world-s-best-restaurants-is-taking-meat-off-the-menu/5889368.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="One of the World’s Best Restaurants Is Taking Meat off the Menu">
+<a href="/a/botswana-could-be-first-in-africa-to-vaccinate-whole-population/5871287.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Botswana Could Be First in Africa to Vaccinate Whole Population">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/294416B0-651E-43D7-922D-F4A4EEFC9458_cx0_cy80_cw0_w33_r1.jpg" src="" alt="One of the World’s Best Restaurants Is Taking Meat off the Menu" />
+<img data-src="https://gdb.voanews.com/AD111D2D-7128-443A-9EC2-408DA3BEB31A_w33_r1.png" src="" alt="Botswana Could Be First in Africa to Vaccinate Whole Population" />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/one-of-the-world-s-best-restaurants-is-taking-meat-off-the-menu/5889368.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="One of the World’s Best Restaurants Is Taking Meat off the Menu">
-One of the World’s Best Restaurants Is Taking Meat off the Menu
+<a href="/a/botswana-could-be-first-in-africa-to-vaccinate-whole-population/5871287.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="Botswana Could Be First in Africa to Vaccinate Whole Population">
+Botswana Could Be First in Africa to Vaccinate Whole Population
 </h4>
 </a>
 </div>
@@ -1021,47 +1053,15 @@ One of the World’s Best Restaurants Is Taking Meat off the Menu
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/in-britain-it-s-ok-to-hug-again/5885418.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="In Britain, It’s OK to Hug Again">
+<a href="/a/zimbabwean-girl-uses-martial-arts-to-warn-against-child-marriage/5727207.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Zimbabwean Girl Uses Martial Arts to Warn Against Child Marriage">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/19D8C034-83D3-43A3-85E1-FAADB08442EA_cx0_cy8_cw0_w33_r1.jpg" src="" alt="In Britain, It’s OK to Hug Again" />
+<img data-src="https://gdb.voanews.com/08BB6F14-36CB-49B6-B2DF-6382B1BE8D20_w33_r1.jpg" src="" alt="Zimbabwean Girl Uses Martial Arts to Warn Against Child Marriage" />
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/in-britain-it-s-ok-to-hug-again/5885418.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="In Britain, It’s OK to Hug Again">
-In Britain, It’s OK to Hug Again
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/many-americans-dropped-face-coverings-well-before-health-guidance/5870151.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Many Americans Dropped Face Coverings Well before Health Guidance">
-<div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/FF4410A6-B83E-4D64-811D-8C64129B5120_cx2_cy0_cw95_w33_r1.jpg" src="" alt="Many Americans Dropped Face Coverings Well before Health Guidance" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/many-americans-dropped-face-coverings-well-before-health-guidance/5870151.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="Many Americans Dropped Face Coverings Well before Health Guidance">
-Many Americans Dropped Face Coverings Well before Health Guidance
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/rich-latin-americans-travel-to-us-for-vaccine/5863365.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Rich Latin Americans Travel to US for Vaccine">
-<div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/2A7D085F-B734-4AC3-8045-D515B53093B7_cx0_cy5_cw0_w33_r1.jpg" src="" alt="Rich Latin Americans Travel to US for Vaccine" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/rich-latin-americans-travel-to-us-for-vaccine/5863365.html" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="Rich Latin Americans Travel to US for Vaccine">
-Rich Latin Americans Travel to US for Vaccine
+<a href="/a/zimbabwean-girl-uses-martial-arts-to-warn-against-child-marriage/5727207.html" rel="noopener">
+<h4 class="media-block__title media-block__title--size-4" title="Zimbabwean Girl Uses Martial Arts to Warn Against Child Marriage">
+Zimbabwean Girl Uses Martial Arts to Warn Against Child Marriage
 </h4>
 </a>
 </div>
@@ -1335,7 +1335,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 </div>
 <script type="text/javascript">
 var bar_data = {
-"apiId": "5906793",
+"apiId": "5904062",
 "apiType": "1",
 "isEmbedded": "0",
 "culture": "en-US-LEARN",
