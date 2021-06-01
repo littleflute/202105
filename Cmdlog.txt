@@ -1,0 +1,5 @@
+STDOUT:  Volume in drive C has no label.
+STDOUT:  Volume Serial Number is DABB-613C
+STDOUT: 
+STDOUT:  Directory of c:\FFOutput\gh\littleflute\202105
+STDOUT: 
